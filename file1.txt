@@ -1,1 +1,2 @@
 first line file1
+Second line in files
